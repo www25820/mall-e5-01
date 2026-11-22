@@ -1,0 +1,7 @@
+mysql: [Warning] Using a password on the command line interface can be insecure.
+id	name	parent_id
+1	服装	0
+deleted_rows
+1
+id	name	parent_id
+1	服装	0
