@@ -1,0 +1,11 @@
+mysql: [Warning] Using a password on the command line interface can be insecure.
+product_category_id	product_cnt
+7	17
+19	10
+8	3
+35	2
+29	2
+53	1
+54	1
+39	1
+55	1
