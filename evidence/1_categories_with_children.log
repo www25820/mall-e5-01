@@ -1,0 +1,9 @@
+mysql: [Warning] Using a password on the command line interface can be insecure.
+parent_id	child_cnt
+1	6
+12	2
+2	6
+3	8
+4	5
+5	4
+52	3
